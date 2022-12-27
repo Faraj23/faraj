@@ -1,0 +1,23 @@
+warning: in the working copy of 'hello.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/hello.html b/hello.html[m
+[1mindex 70d1a3e..928fc54 100644[m
+[1m--- a/hello.html[m
+[1m+++ b/hello.html[m
+[36m@@ -2,7 +2,7 @@[m
+ <!-- saved from url=(0268)https://mp4-a.udemycdn.com/2018-06-27_12-49-35-ad92057bdafda2c4cfe49e64bcd273be/original.html?vcDtbq7QYDuchfBrzkZ7Jr5_8ixrcqY9Kqb0Glkoi53T-%2DaStrO3j6iv3pg2lczlnr2WxSO06A4FFVZDIJsQP5n6DzM95nB8KMoFKVWjyqLCnctzCRaHZKnHO3MmNvcrJAo7dGKKzqqknX1YjdcU6VTly_0Dt3J3amStHNxNG98w -->[m
+ <html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">[m
+         [m
+[31m-        <title>Formation GIT</title>[m
+[32m+[m[32m        <title>Formation GIT SS</title>[m
+         [m
+ 		[m
+ 		<link rel="stylesheet" href="./style.css">[m
+[36m@@ -14,7 +14,7 @@[m
+ [m
+ 		<!-- TITRE -->[m
+ 		<div id="top-banner">[m
+[31m-			Bienvenue dans cette formation GIT ![m
+[32m+[m			[32mBienvenue dans cette formation GIT ss ![m
+ 		</div>[m
+ 		[m
+ 	[m
